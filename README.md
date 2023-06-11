@@ -6,3 +6,5 @@ Repositorio para la tarea ED04
 ### Documentación JavaDoc del proyecto:
 
 file:///C:/Users/Usuario/Desktop/ED04_Carballo_Regalado_Pedro/Deposito/dist/javadoc/cuentas/package-summary.html
+
+Para poder ver la documentación JavaDoc tienes que clonar el repositorio en el escritorio
